@@ -47,4 +47,13 @@ object Form1: TForm1
     TabOrder = 3
     OnClick = Button3Click
   end
+  object Button4: TButton
+    Left = 16
+    Top = 334
+    Width = 241
+    Height = 59
+    Caption = #1057#1086#1079#1076#1072#1090#1100' '#1086#1073#1098#1077#1082#1090' '#1082#1083#1072#1089#1089#1072' TBar = class(TParallel)'
+    TabOrder = 4
+    OnClick = Button4Click
+  end
 end
