@@ -1,1 +1,5 @@
-laba12
+git status
+git add .
+git commit -m "readme"
+git log
+git push origin master
